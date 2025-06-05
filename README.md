@@ -1,6 +1,6 @@
 # BananAPP-P-EZ © 2025
 
-A security system BananAAP!!
+A security system BananAAP!!      https://modelingsolver.github.io/chatapi.html
 
 
 *Présentation de P-EZ : La Révolution de la Sécurité de Connexion* P-EZ est une solution de sécurité innovante qui transforme la façon dont nous nous connectons à nos comptes et systèmes en ligne. En remplaçant les traditionnels identifiants et mots de passe par une approche ultra-robuste, P-EZ offre une protection sans précédent contre les menaces de cybersécurité. *Une Alternative Révolutionnaire à l'Authentification Traditionnelle* Les systèmes d'authentification classiques basés sur les identifiants et les mots de passe sont vulnérables aux attaques de phishing, de force brute et de social engineering. P-EZ élimine ces risques en proposant une solution sécurisée et facile à utiliser, qui rend obsolète les méthodes de hacking par social engineering.
